@@ -9,7 +9,7 @@ Attribute VB_PredeclaredId = False
 Attribute VB_Exposed = False
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 'NOTE: The code is this module works only with the outstanding Dodeca add-in for Essbase
-'It does NOT work with the buggy and unstable add-in known as Smart View
+'By design it does NOT work with the so-called "Smart View" Essbase add-in
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Option Explicit
