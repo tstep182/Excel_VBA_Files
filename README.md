@@ -1,4 +1,4 @@
-I often need to quickly confirm and/or assess the effects of various Essbase data operations I perform, such as loading and calculating new data, or moving existing data between different scenarios and versions. To facilitate that, I created a process that uses Excel VBA (GitHub link provided below) to do the following:
+I often need to quickly confirm and/or assess the effects of various Essbase data operations I perform, such as loading and calculating new data, or moving existing data between different scenarios and versions. To facilitate that, I created a process that uses Excel VBA to do the following:
 
 • Loops through each of the FP&A department's Essbase cubes and captures multilevel "Before" and "After" time-stamped data snapshots 
 
